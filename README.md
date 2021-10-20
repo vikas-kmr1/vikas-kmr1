@@ -16,7 +16,7 @@
 ### About Me 🚀
 🎓 I am a Computer Science Engineering Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. </br>
 👨‍💻 
-I am seeking for a role which allows me to continue learning and perfecting my skills. . I am a meticulous student and always eager to learn. </br>
+
 <!--### My Experiences 🙌
 
 ### Honors & Awards 🏅 -->
