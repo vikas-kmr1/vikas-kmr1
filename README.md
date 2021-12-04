@@ -18,7 +18,7 @@
 👨‍💻 
 
 ### My Experiences 🙌
- Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning (from Sept/2001 - Nov/2021).
+- Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning (from Sept/2001 -  Nov/2021).
 
 ### Honors & Awards 🏅 -->
 
