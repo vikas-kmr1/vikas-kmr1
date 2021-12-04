@@ -17,7 +17,8 @@
 🎓 I am a Computer Science Engineering Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. </br>
 👨‍💻 
 
-<!--### My Experiences 🙌
+### My Experiences 🙌
+ Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning (from Sept/2001 - Nov/2021).
 
 ### Honors & Awards 🏅 -->
 
