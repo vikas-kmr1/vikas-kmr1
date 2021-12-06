@@ -22,5 +22,5 @@
 
 <!--### Honors & Awards 🏅 -->
 
-![Sonal Kushwaha's github stats](https://github-readme-stats.vercel.app/api?username=sonalsk&show_icons=true&theme=radical)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsk&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsk" /> </p>
+![Vikas Kumar's github stats](https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" /> </p>
