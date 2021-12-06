@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vikas!](https://github.com/vickyrules/.github.io) 
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <!--<a href="https://twitter.com/">
@@ -22,3 +22,4 @@
 
 <!--### Honors & Awards 🏅 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsk&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsk" /> </p>
