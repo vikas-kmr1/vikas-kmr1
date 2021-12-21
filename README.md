@@ -40,11 +40,13 @@
 <hr>
 
 <!--### Honors & Awards 🏅 -->
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyrules&show_icons=true&locale=en&layout=compact" alt="vickyrules" /></p>
-<P ></p>
-<br>
-<hr>
+
+
 
 ![Vikas Kumar's github stats](https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true)
-<p  &nbsp; align="center"> <img src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" /> </p>
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyrules&show_icons=true&locale=en&layout=compact" alt="vickyrules" /></p>
+
+<br>
+<p  align="center"> <img src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" /> </p>
 <hr>
