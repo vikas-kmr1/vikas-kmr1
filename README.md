@@ -45,8 +45,8 @@
 
 ![Vikas Kumar's github stats](https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyrules&show_icons=true&locale=en&layout=compact" alt="vickyrules" /></p>
+<img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyrules&show_icons=true&locale=en&layout=compact" alt="vickyrules" >
 
 <br>
-<p  align="center"> <img src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" /> </p>
+<img style="horizontal-align:middle" src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" > 
 <hr>
