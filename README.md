@@ -29,13 +29,14 @@
 <hr>
 
 ### About Me 🚀
-🎓 I am a Computer Science Engineering Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. </br>
+🎓 I am a .Computer Science Engineer-,ing Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. </br>
 👨‍💻 
 
 <hr>
 
 ### My Experiences 🙌
-- Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning (from Sept/2021 -  Nov/2021).
+- Contributor @GSSoC'22 [Feb/2022 - Present].
+- Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
 
 <hr>
 
