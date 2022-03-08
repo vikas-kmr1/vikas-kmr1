@@ -1,5 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
-<img  width="100%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+<div align = "center" > 
+  <img  width="100%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+  </div>
 <br>
 
 
