@@ -48,7 +48,7 @@
 <hr>
 <h2>My Experiences 🙌</h2>
 - Contributor @GSSoC'22 [Feb/2022 - Present]. <br>
-- Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
+- Technial intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
 
 <hr>
 
