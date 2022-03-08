@@ -7,7 +7,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
-  <img align="left" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
+  <img align="center" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
 
 </a>
 
@@ -17,11 +17,11 @@
 
 <a href="mailto:vickyrules1705@gmail.com">
 
-  <img align="left" width="35px" height="35px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
+  <img align="center" width="35px" height="35px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
 
 </a>
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
-  <img align="left" width="35px" height="35px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
+  <img align="center" width="35px" height="35px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
 </a> 
 
 
