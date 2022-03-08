@@ -4,21 +4,21 @@
 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/Neon%20Social%20Media%20Linkedin%20Icon.svg"  />
 
 </a>
 
-
-  
+<!-- 
+  https://protokol7.com/assets/icons/github-icon-22.svg -->
 
 
 <a href="mailto:vickyrules1705@gmail.com">
 
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="35px" height="35px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
 
 </a>
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="35px" height="35px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
 </a> 
 
 
