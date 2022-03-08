@@ -4,9 +4,9 @@
 
 
 <h2 align="center">📫 Reach out to me on</h2>
-<div width="50%" ">
+<div width="50%" heigth="">
                   
-  <img align="left" width="43%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+  <img align="left" heigth ="60%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
  
  <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
@@ -34,24 +34,20 @@
     
  </div>
 
-
-
 </div>
 
 
+<hr >
 
-
+<p align="bottom">
+<h2> About Me 🚀 </h2>
+ <br>
+🎓 I am a .Computer Science Engineer-,ing Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. 👨‍💻 
+</p>
 <br>
 <hr>
-
-### About Me 🚀
-🎓 I am a .Computer Science Engineer-,ing Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. </br>
-👨‍💻 
-
-<hr>
-
-### My Experiences 🙌
-- Contributor @GSSoC'22 [Feb/2022 - Present].
+<h2>My Experiences 🙌</h2>
+- Contributor @GSSoC'22 [Feb/2022 - Present]. <br>
 - Technial intern at [Cureya](https://cureya.in/) for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
 
 <hr>
