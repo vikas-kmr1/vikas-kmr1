@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
-  <img align="left" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/Neon%20Social%20Media%20Linkedin%20Icon.svg"  />
+  <img align="left" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
 
 </a>
 
