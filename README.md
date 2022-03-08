@@ -1,7 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
-<img src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+<img  width="100%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+<br>
 
 
+<h2 align="center">📫 Reach out to me on</h2>
+<div align="center">
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
   <img align="left" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
@@ -23,7 +26,7 @@
 
 
 
-
+</div>
 
 <br>
 <hr>
