@@ -1,34 +1,45 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
-<div align = "center" > 
-  <img  width="100%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
-  </div>
+
 <br>
 
 
 <h2 align="center">📫 Reach out to me on</h2>
-<div align="center">
+<div width="50%" ">
+                  
+  <img align="left" width="40%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+ 
+ <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
-  <img align="center" width="35px" height="35px"  src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
+  <img align="center" width="75px" height="125px"  style = "margin:40px;" src="https://github.com/vickyrules/userContents/blob/main/neon.svg"  />
 
 </a>
+  </div>   
 
 <!-- 
   https://protokol7.com/assets/icons/github-icon-22.svg -->
 
-
+ <div width="50%" align="center" > 
 <a href="mailto:vickyrules1705@gmail.com">
 
-  <img align="center" width="35px" height="35px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
+  <img align="bottom"  style = "margin:40px;"  width="75px" height="125px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
 
 </a>
+  </div>
+  
+  <div width="50%" align="center">  
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
-  <img align="center" width="35px" height="35px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
+  <img style = "margin:40px;" align="bottom" width="75px" height="125px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
 </a> 
+    
+ </div>
 
 
 
 </div>
+
+
+
 
 <br>
 <hr>
