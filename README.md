@@ -72,6 +72,9 @@
 
 </p>
 
+<!-- --- -->
+![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vickyrules&theme=react-dark)
+
 ---
 
 
@@ -80,11 +83,11 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=vickyrules&line_height=40&theme=algolia">
 </p>
 
+
+
 ---
 <br>
-<h2 align = "center">
-  
-  Visitors count<br>
+<h2 align = "center"> Visitors count<br>
   <img src="https://profile-counter.glitch.me/vickyrules/count.svg" />
 </h2>
 
