@@ -42,7 +42,7 @@
 <p align="bottom">
 <h2> About Me 🚀 </h2>
  <br>
-🎓 I am a .Computer Science Engineer-,ing Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. 👨‍💻 
+🎓 I am a Computer Science Engineering Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. 👨‍💻 
 </p>
 <br>
 <hr>
@@ -86,7 +86,7 @@
 
 
 ---
-<br>
+
 <h2 align = "center"> Visitors count<br>
   <img src="https://profile-counter.glitch.me/vickyrules/count.svg" />
 </h2>
