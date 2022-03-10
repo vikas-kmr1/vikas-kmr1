@@ -5,9 +5,9 @@
 
 
 <h2 align="center">📫 Reach out to me on</h2>
-<div width="50%" heigth="">
+<div width="100%"  align="center">
                   
-  <img align="left" heigth ="50%" src = "https://github.com/vickyrules/userContents/blob/main/20942-hello-boy.gif" >
+  <img align="left"  heigth ="100%" src = "https://github.com/vickyrules/userContents/blob/main/animation_300_l0l5ydos.gif" >
  
  <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
