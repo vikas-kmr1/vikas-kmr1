@@ -43,19 +43,22 @@
 
 <h2> About Me 🚀 </h2>
                                                                                                                                   
- <img align="right"   src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+ <img align="right"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
                                                                                                                                               
   🎓 I am a Computer Science Engineering Student. I have<br>
       the potential to learn new technologies and apply it<br>
       to the best in industry. I believe that learningand <br>
        practice are the key to success. 👨‍💻
- 
-
+                                                                                                 
+   <br>
+                                                                                                 
 <hr>
                                                                                                   
 <h2>My Experiences 🙌</h2>
 - Contributor @GSSoC'22 [Feb/2022 - Present]. <br>
 - Technial intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
+                                                  
+<br>
 <br>
 <hr>
 
