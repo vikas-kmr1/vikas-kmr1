@@ -44,7 +44,9 @@
 <h2> About Me 🚀 </h2>
                                                                                                                                   
  <img align="right"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-                                                                                                                                              
+    
+<br>      
+                                                                                                                                    
   🎓 I am a Computer Science Engineering Student. I have<br>
       the potential to learn new technologies and apply it<br>
       to the best in industry. I believe that learningand <br>
@@ -115,4 +117,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
