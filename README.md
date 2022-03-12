@@ -28,7 +28,7 @@
 </a>
   </div>
   
-  <div width="50%" align="center">  
+  <div width="50% align="center">  
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
   <img style = "margin:40px;" align="bottom" width="75px" height="125px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
 </a> 
@@ -40,17 +40,23 @@
 
 <hr >
 
-<p align="bottom">
+
 <h2> About Me 🚀 </h2>
- <br>
-🎓 I am a Computer Science Engineering Student. I have the potential to learn new technologies and apply it to the best in industry. I believe that learning and practice are the key to success. 👨‍💻 
-</p>
-<br>
+                                                                                                                                  
+ <img align="right"   src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+                                                                                                                                              
+  🎓 I am a Computer Science Engineering Student. I have<br>
+      the potential to learn new technologies and apply it<br>
+      to the best in industry. I believe that learningand <br>
+       practice are the key to success. 👨‍💻
+ 
+
 <hr>
+                                                                                                  
 <h2>My Experiences 🙌</h2>
 - Contributor @GSSoC'22 [Feb/2022 - Present]. <br>
 - Technial intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
-
+<br>
 <hr>
 
 <!--### Honors & Awards 🏅 -->
@@ -96,7 +102,14 @@
  <h2 align="center">
 <img style="horizontal-align:middle" src="https://komarev.com/ghpvc/?username=vickyrules&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrules" > 
   </h2>
-<hr>
 
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
