@@ -43,9 +43,7 @@
 
 <h2> About Me 🚀 </h2>
                                                                                                                                   
- <img align="right"   src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
-    
-<br>     
+ <img align="right" height="320"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  /> <br>     
                                                                                                  
                                                                                                  
  🎓 &nbsp;I'm currently studying Computer Science and Engineering at Amity University,Greater Noida.\
