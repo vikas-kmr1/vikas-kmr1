@@ -43,7 +43,7 @@
 
 <h2> About Me 🚀 </h2>
                                                                                                                                   
- <img align="right" width="250"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
+ <img align="right"   src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
     
 <br>     
                                                                                                  
