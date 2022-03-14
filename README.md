@@ -43,14 +43,18 @@
 
 <h2> About Me 🚀 </h2>
                                                                                                                                   
- <img align="right"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+ <img align="right" width="200"  src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
     
-<br>      
-                                                                                                                                    
-  🎓 I am a Computer Science Engineering Student. I have<br>
-      the potential to learn new technologies and apply it<br>
-      to the best in industry. I believe that learningand <br>
-       practice are the key to success. 👨‍💻
+<br>     
+                                                                                                 
+                                                                                                 
+ 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Amity University,Greater Noida.\
+💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, NodeJS, Android Studio and Python. Currently exploring Django.\
+🌱 &nbsp;I'm on track for learning more about Dynamic-Programming, Systems Design, and Algorithms. \
+                                                                                                 
+- Struggling on LeetCode.
+- Practising on CodeChef and HackerRank.
+
                                                                                                  
    <br>
                                                                                                  
