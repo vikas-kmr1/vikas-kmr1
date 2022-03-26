@@ -54,8 +54,7 @@
                                                                                                  
 - Struggling on LeetCode.
 - Practising on CodeChef and HackerRank.
-
-                                                                                                 
+                                                                                               
    <br>
                                                                                                  
 <hr>
@@ -71,12 +70,10 @@
 <!--### Honors & Awards 🏅 -->
 
 
-
 <!-- ![Vikas Kumar's github stats](https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true)
 
 <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickyrules&show_icons=true&locale=en&layout=compact" alt="vickyrules" >
  -->
-
 
 
 ## **Github Stats:**
@@ -94,12 +91,10 @@
 ---
 -->
 
-
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=vickyrules&line_height=40&theme=algolia">
 </p>
-
 
 
 ---
@@ -110,7 +105,6 @@
 
 <br>
  
-
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
