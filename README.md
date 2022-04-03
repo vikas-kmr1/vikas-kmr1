@@ -76,7 +76,7 @@
  -->
 
 
-## **Github Stats graph 📊 **
+## Github Stats 📊 
 
 <p align="center">
   
@@ -91,7 +91,7 @@
 ---
 -->
 
-## **Github Streak 🔥**
+## Github Streak 🔥
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=vickyrules&line_height=40&theme=algolia">
 </p>
@@ -99,7 +99,7 @@
 
 ---
 
-<h2 align = "center"> Visitors count<br>
+<h2 align = "center"> Visitors count 👫<br>
   <img src="https://profile-counter.glitch.me/vickyrules/count.svg" />
 </h2>
 
