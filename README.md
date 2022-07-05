@@ -60,7 +60,7 @@
 <hr>
                                                                                                   
 <h2>My Experiences 🙌</h2>
-- Web Developer Intern at <a href= "https://oasisinfobyte.com/"> CodeClause </a> [1/July/2022 - present]. <br>
+- Web Developer Intern at <a href= "https://codeclause.com/index.html"> CodeClause </a> [1/July/2022 - present]. <br>
 - Android Developer Intern at <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
 - Contributor at <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a> [Mar/2022 - May/2022]. <br>
 - Technial intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
