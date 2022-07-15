@@ -82,8 +82,9 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vickyrules&hide=stars&show_icons=true&line_height=48&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&count_private=true&line_height=60&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api?username=vickyrules&hide=stars&show_icons=true&line_height=64&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&count_private=true&line_height=60&theme=algolia">
+  
 
 </p>
 
