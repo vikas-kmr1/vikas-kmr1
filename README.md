@@ -23,16 +23,13 @@
  <div width="50%" align="center" > 
 <a href="mailto:vickyrules1705@gmail.com">
 
-  <img align="bottom"  style = "margin:40px;"  width="75px" height="125px"  src="https://protokol7.com/assets/icons/gmail-icon-24.svg" />
-
+  <img align="bottom"  style = "margin:40px;"  width="75px" height="125px"  src="https://user-images.githubusercontent.com/73611313/180279460-ff5f4cc3-24af-4df8-86a1-d963aaa5bd93.svg" />
 </a>
   </div>
   
-
-
   <div width="50% align="center">  
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
-  <img style = "margin:40px;" align="bottom" width="75px" height="125px" src="https://protokol7.com/assets/icons/twitter-icon-23.svg" />
+  <img style = "margin:40px;" align="bottom" width="75px" height="125px" src="https://user-images.githubusercontent.com/73611313/180279828-b0a453c3-54eb-46e8-a49f-68265102f0fb.svg" />
 </a> 
     
  </div>
