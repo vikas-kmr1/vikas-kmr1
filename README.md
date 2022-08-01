@@ -12,7 +12,7 @@
  <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
-  <img align="center" width="75px" height="125px"  style = "margin:40px;" src="https://github.com/vickyrules/userContents/blob/main/icons8-linkedin-circled-150.svg"  />
+  <img align="center" width="75px" height="125px"  style = "margin:40px;" src="https://raw.githubusercontent.com/vickyrules/userContents/main/icons8-linkedin-circled-150.svg"  />
 
 </a>
   </div>   
