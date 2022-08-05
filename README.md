@@ -46,7 +46,7 @@
                                                                                                  
                                                                                                  
  🎓 &nbsp;I'm currently studying Computer Science and Engineering at Amity University,Greater Noida.\
-💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, NodeJS, Android Studio and Python. Currently exploring Django.\
+💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, Android Studio and Python. Currently exploring Django and Reactjs.\
 🌱 &nbsp;I'm on track for learning more about Dynamic-Programming, Systems Design, and Algorithms. 
                                                                                                  
 - Struggling on LeetCode.
