@@ -7,8 +7,9 @@
 <h2 align="center">📫 Reach out to me on</h2>
 <div width="100%"  align="center">
                   
-  <img align="left"  heigth ="100%" src = "https://github.com/vickyrules/userContents/blob/main/animation_300_l0l5ydos.gif" >
- 
+<!--  <img align="left"  heigth ="100%" src = "https://github.com/vickyrules/userContents/blob/main/animation_300_l0l5ydos.gif" > -->
+ <img align="left"  width ="50%" height="80%" src = "https://user-images.githubusercontent.com/73611313/183234555-03332a8d-2c52-42b9-9867-ae3dd615b453.gif"/>
+
  <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
 
