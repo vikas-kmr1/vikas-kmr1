@@ -6,8 +6,8 @@
 
 <h2 align="center">📫 Reach out to me on</h2>
 <div width="100%"  align="center">
-                  
-  <img align="left"  heigth ="100%" src = "https://github.com/vickyrules/userContents/blob/main/animation_300_l0l5ydos.gif" > 
+            
+  <img align="left"  heigth ="80%" src = "https://user-images.githubusercontent.com/73611313/183249203-6584f459-145f-4d08-883c-b9e57146d992.png" > 
 
  <div width="50%" align="center "  > 
 <a href="https://www.linkedin.com/in/vikas-kumar-9151b7191">
@@ -37,6 +37,7 @@
 </div>
 
 
+<br>
 <hr >
 
 <h2> About Me 🚀 </h2>
