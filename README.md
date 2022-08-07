@@ -58,9 +58,9 @@
                                                                                                   
 <h2>My Experiences 🙌</h2>
 - Participant  at <a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a> [15/July/2022 - present]. <br>
-- Android Developer Intern at <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
+- Android Developer-Intern at <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
 - Contributor at <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a> [Mar/2022 - May/2022]. <br>
-- Technial intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
+- Technical intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
                                                   
 <br>
 <br>
