@@ -79,10 +79,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vickyrules&hide=stars&show_icons=true&line_height=64&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&count_private=true&line_height=60&theme=algolia">
-  
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="vickyrules's github stats"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&layout=compact&theme=buefy&hide_border=true" />
 </p>
 
 
