@@ -77,10 +77,11 @@
 
 ## Github Stats 📊 
 
-<p align="center">
-  
+<p >
+<div align="center">  
 <img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vickyrules&show_icons=true&layout=compact&theme=algolia&hide_border=true" alt="vickyrules's github stats"/> 
 <img align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=algolia&hide_border=true" />
+</div>
 </p>
 
 
