@@ -85,7 +85,7 @@
 </p>
 
 
-![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vickyrules&theme=rogue)
+![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vickyrules&theme=xcode)
 
 
 ## Github Streak 🔥
