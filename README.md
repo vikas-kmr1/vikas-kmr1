@@ -35,7 +35,7 @@
  
 <div title = " Download Resume" width="50% align="center" > 
 <a href="https://github.com/vickyrules/vickyrules/files/9793705/Vikas.Kumar.s.wg.pdf" target="_blank">
-  <img align="center" width="95px" height="105px"  style = "margin:40px;" src="https://user-images.githubusercontent.com/73611313/196020828-f409be2c-d211-46ef-8498-f612e62cb08a.svg" /> 
+  <img align="center" width="90px" height="95px"  style = "margin:40px;" src="https://user-images.githubusercontent.com/73611313/196020828-f409be2c-d211-46ef-8498-f612e62cb08a.svg" /> 
 </a>
  </div>
 </div>
@@ -81,12 +81,12 @@
 
 ## Github Stats 📊 
 
-<p >
+<div >
 <div align="center">  
-<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vickyrules&show_icons=true&layout=compact&theme=algolia&hide_border=true" alt="vickyrules's github stats"/> 
-<img align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=algolia&hide_border=true" />
+<img width = "450px" align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vickyrules&show_icons=true&layout=compact&theme=algolia&hide_border=true" alt="vickyrules's github stats"/> 
+<img width = "450px" align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=algolia&hide_border=true" />
 </div>
-</p>
+</div>
 
 
 ![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vickyrules&theme=xcode)
