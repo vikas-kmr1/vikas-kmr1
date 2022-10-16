@@ -5,7 +5,7 @@
 
 
 <h2 align="center">📫 Reach out to me on</h2>
-<div width="100%"  align="center">
+<div width="100%"  align="center" title = "Connect with me!">
             
   <img align="left"  heigth ="80%" src = "https://user-images.githubusercontent.com/73611313/183249203-6584f459-145f-4d08-883c-b9e57146d992.png" > 
 
@@ -15,25 +15,30 @@
   <img align="center" width="75px" height="125px"  style = "margin:40px;" src="https://github.com/vickyrules/userContents/blob/main/icons8-linkedin-circled-150.svg"  />
 
 </a>
+
   </div>   
 
 <!-- 
   https://protokol7.com/assets/icons/github-icon-22.svg -->
 
- <div width="50%" align="center" > 
+ <div title = "Mail Me!" width="50%" align="center" > 
 <a href="mailto:vickyrules1705@gmail.com">
-
   <img align="bottom"  style = "margin:40px;"  width="75px" height="125px"  src="https://user-images.githubusercontent.com/73611313/180279460-ff5f4cc3-24af-4df8-86a1-d963aaa5bd93.svg" />
 </a>
   </div>
   
-  <div width="50% align="center">  
+  <div title = "Follow me on Twitter!" width="50% align="center">  
 <a href="https://twitter.com/i_m_Vikas__?t=IibbhZn45IWi7uVrMjv9uA&s=09">
   <img style = "margin:40px;" align="bottom" width="75px" height="125px" src="https://user-images.githubusercontent.com/73611313/180279828-b0a453c3-54eb-46e8-a49f-68265102f0fb.svg" />
 </a> 
     
  </div>
-
+ 
+<div title = " Download Resume!" width="50% align="center" > 
+<a href="https://github.com/vickyrules/vickyrules/files/9793705/Vikas.Kumar.s.wg.pdf">
+  <img align="center" width="95px" height="105px"  style = "margin:40px;" src="https://user-images.githubusercontent.com/73611313/196020828-f409be2c-d211-46ef-8498-f612e62cb08a.svg" /> 
+</a>
+ </div>
 </div>
 
 
