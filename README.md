@@ -1,4 +1,3 @@
----
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height ="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
 
 <br>
@@ -80,13 +79,15 @@
 
 
 ## Github Stats 📊 
+<div align="center">
 
-<div >
-<div align="center">  
-<img width = "450px" align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vickyrules&show_icons=true&layout=compact&theme=algolia&hide_border=true" alt="vickyrules's github stats"/> 
-<img width = "450px" align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=algolia&hide_border=true" />
+
+|<div align="center"><img  align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=vickyrules&show_icons=true&layout=compact&theme=algolia&hide_border=true" alt="vickyrules's github stats"/></div>|<div align="center"><img  align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=algolia&hide_border=true" /></div>|
+|---|----|
+
 </div>
-</div>
+
+
 
 
 ![Vikas's github activity graph](https://activity-graph.herokuapp.com/graph?username=vickyrules&theme=xcode)
