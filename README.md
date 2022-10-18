@@ -19,7 +19,7 @@
 <!-- 
   https://protokol7.com/assets/icons/github-icon-22.svg -->
 
- <div title = "Mail me @" width="50%" align="center" > 
+ <div title = "Mail me " width="50%" align="center" > 
 <a href="mailto:vickyrules1705@gmail.com">
   <img align="bottom"  style = "margin:40px;"  width="75px" height="125px"  src="https://user-images.githubusercontent.com/73611313/180279460-ff5f4cc3-24af-4df8-86a1-d963aaa5bd93.svg" />
 </a>
