@@ -60,10 +60,11 @@
 <hr>
                                                                                                   
 <h2>My Experiences 🙌</h2>
-- Participant  at <a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a> [15/July/2022 - 31/August/2022]. <br>
-- Android Developer-Intern at <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
-- Contributor at <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a> [Mar/2022 - May/2022]. <br>
-- Technical intern at <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
+- Maitainer + Contributor @ <a href="https://hacktoberfest.com/">Hacktoberfest2022</a> [1.Oct/2022- Present]<br>
+- Participant  @ <a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a> [15/July/2022 - 31/August/2022]. <br>
+- Android Developer-Intern @ <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
+- Contributor @ <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a> [Mar/2022 - May/2022]. <br>
+- Technical intern @ <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
                                                   
 <br>
 <br>
@@ -106,8 +107,14 @@
 </h2>
 
 <br>
- 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## Hacktoberfest'22 Badges:
+
+|![](https://user-images.githubusercontent.com/73611313/197342069-2e855a30-705f-49ea-8a5e-1d1b1f0832f2.png)|![image](https://user-images.githubusercontent.com/73611313/197342145-a1767464-1259-4cef-9287-c7268dac3c2d.png)|![image](https://user-images.githubusercontent.com/73611313/197342157-6531e88e-05a5-4db0-85f5-5bbb5e62a9a9.png)|![image](https://user-images.githubusercontent.com/73611313/197342170-2dcf7e87-b123-4bf2-8058-722907cd6666.png)|![image](https://user-images.githubusercontent.com/73611313/197342181-abe3ef55-a3a3-4f08-b2cb-204128231e64.png)|
+|---|---|---|---|---|
+
+
+
 
 
 <div align="center">
@@ -116,7 +123,6 @@
 
 </div>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/vickyrules/Actions/blob/output/github-contribution-grid-snake.svg)
