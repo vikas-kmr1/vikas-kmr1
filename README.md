@@ -120,12 +120,11 @@
 
 
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/vickyrules/Actions/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/vickyrules/Actions/blob/output/github-contribution-grid-snake.svg)
