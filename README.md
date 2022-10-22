@@ -60,11 +60,14 @@
 <hr>
                                                                                                   
 <h2>My Experiences 🙌</h2>
-- Maitainer + Contributor @ <a href="https://hacktoberfest.com/">Hacktoberfest2022</a> [1.Oct/2022- Present]<br>
-- Participant  @ <a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a> [15/July/2022 - 31/August/2022]. <br>
-- Android Developer-Intern @ <a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> [1/June/2022 - 30/June/2022]. <br>
-- Contributor @ <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a> [Mar/2022 - May/2022]. <br>
-- Technical intern @ <a href= "https://cureya.in/"> Cureya </a> for  Python & Machine Learning [ Sept/2021 -  Nov/2021] 
+
+||Designation|Organisation|Duration|Techstack|
+|---|---|---|---|---|
+|°|Maitainer + Contributor|<a href="https://hacktoberfest.com/">Hacktoberfest2022</a>|[1/Oct/2022- Present]|```Python``` ```Java``` ```Android```|
+|°|Participant|<a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a>|[15/Jul/2022 - 31/Aug/2022]|```Python``` ```Java``` ```Android``` ```Machine Learning``` ```JavaScript```|
+|°|Android Developer(Intern)|<a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> |[1/Jun/2022 - 30/Jun/2022]|```Android``` ```Java```|
+|°|Contributor| <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a>|[1/Mar/2022 - 31/May/2022]|```Python``` ```JavaScript```|
+|°|Technical intern|<a href= "https://cureya.in/"> Cureya </a>|[26/Sept/2021 - 28/Nov/2021]|```Python``` ```Machine Learning```|
                                                   
 <br>
 <br>
