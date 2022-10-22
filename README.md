@@ -62,7 +62,7 @@
 <h2>My Experiences 🙌</h2>
 
 ||Designation|Organisation|Duration|Techstack|
-|---|---|---|---|---|
+|---|---|---|-----|---|
 |°|Maitainer + Contributor|<a href="https://hacktoberfest.com/">Hacktoberfest2022</a>|[1/Oct/2022- Present]|```Python``` ```Java``` ```Android```|
 |°|Participant|<a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a>|[15/Jul/2022 - 31/Aug/2022]|```Python``` ```Java``` ```Android``` ```Machine Learning``` ```JavaScript```|
 |°|Android Developer(Intern)|<a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> |[1/Jun/2022 - 30/Jun/2022]|```Android``` ```Java```|
