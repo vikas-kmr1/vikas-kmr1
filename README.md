@@ -63,7 +63,7 @@
 
 ||Designation|Organisation|Duration|Techstack|
 |---|---|---|-----|---|
-|°|Maintainer + Contributor|<a href="https://hacktoberfest.com/">Hacktoberfest2022</a>|[1/Oct/2022- 31/oct/2022]|```Python``` ```Java``` ```Android```|
+|°|Maintainer + Contributor|<a href="https://hacktoberfest.com/">Hacktoberfest2022</a>|[1/Oct/2022- 31/Oct/2022]|```Python``` ```Java``` ```Android```|
 |°|Participant|<a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a>|[15/Jul/2022 - 31/Aug/2022]|```Python``` ```Java``` ```Android``` ```Machine Learning``` ```JavaScript```|
 |°|Android Developer(Intern)|<a href= "https://oasisinfobyte.com/"> Oasis Infobyte </a> |[1/Jun/2022 - 30/Jun/2022]|```Android``` ```Java```|
 |°|Contributor| <a href= "https://gssoc.girlscript.tech/">GSSoC'22 </a>|[1/Mar/2022 - 31/May/2022]|```Python``` ```JavaScript```|
