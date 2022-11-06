@@ -113,8 +113,8 @@
 
 ## Hacktoberfest'22 Badges:
 
-|![](https://user-images.githubusercontent.com/73611313/197342069-2e855a30-705f-49ea-8a5e-1d1b1f0832f2.png)|![image](https://user-images.githubusercontent.com/73611313/197342145-a1767464-1259-4cef-9287-c7268dac3c2d.png)|![image](https://user-images.githubusercontent.com/73611313/197342157-6531e88e-05a5-4db0-85f5-5bbb5e62a9a9.png)|![image](https://user-images.githubusercontent.com/73611313/197342170-2dcf7e87-b123-4bf2-8058-722907cd6666.png)|![image](https://user-images.githubusercontent.com/73611313/197342181-abe3ef55-a3a3-4f08-b2cb-204128231e64.png)|
-|---|---|---|---|---|
+|![](https://user-images.githubusercontent.com/73611313/197342069-2e855a30-705f-49ea-8a5e-1d1b1f0832f2.png)|![image](https://user-images.githubusercontent.com/73611313/197342145-a1767464-1259-4cef-9287-c7268dac3c2d.png)|![image](https://user-images.githubusercontent.com/73611313/197342157-6531e88e-05a5-4db0-85f5-5bbb5e62a9a9.png)|![image](https://user-images.githubusercontent.com/73611313/197342170-2dcf7e87-b123-4bf2-8058-722907cd6666.png)|![image](https://user-images.githubusercontent.com/73611313/197342181-abe3ef55-a3a3-4f08-b2cb-204128231e64.png)|![image](https://user-images.githubusercontent.com/73611313/200155750-a0adc779-e4ff-4703-b59b-edd343da799b.png)|
+|---|---|---|---|---|---|
 
 
 
