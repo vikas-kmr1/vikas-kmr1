@@ -59,7 +59,7 @@
                                                                                                  
 <hr>
                                                                                                   
-<h2>My Experiences 🙌</h2>
+<h2>My Experience 🙌</h2>
 
 ||Designation|Organisation|<div width="550px"> Duration </div>|Techstack|
 |---|---|---|-----|---|
