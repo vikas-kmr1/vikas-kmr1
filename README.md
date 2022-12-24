@@ -33,7 +33,7 @@
  </div>
  
 <div title = " Download Resume" width="50% align="center" > 
-<a href="https://github.com/vickyrules/vickyrules/files/10287795/Vikas.Kumar.s.wg.pdf" target="_blank">
+<a href="https://github.com/vickyrules/vickyrules/files/10298810/Vikas.Kumar.s.wg.pdf" target="_blank">
   <img align="center" width="90px" height="95px"  style = "margin:40px;" src="https://user-images.githubusercontent.com/73611313/196020828-f409be2c-d211-46ef-8498-f612e62cb08a.svg" /> 
 </a>
  </div>
