@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height ="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height ="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
 
 <br>
 
