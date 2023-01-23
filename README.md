@@ -52,7 +52,7 @@
 🌱 &nbsp;I'm on track for learning more about Dynamic-Programming, Systems Design, and Algorithms. 
                                                                                                  
 - Struggling on LeetCode.
-- Practising on CodeChef and HackerRank.
+- Practicing on CodeChef and HackerRank.
                                                                                                
    <br>
                                                                                                  
