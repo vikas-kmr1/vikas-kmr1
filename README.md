@@ -1,5 +1,11 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height ="29px">, I'm [Vikas!](https://vickyrules.github.io/vikas_kumar/) 
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height ="29px">, I'm 
 
+<div widht = "100%" align="center">
+<a href = "https://vickyrules.github.io/vikas_kumar/">
+        <img  height ="100px"  src ="https://user-images.githubusercontent.com/73611313/221845097-f781fb77-a3ec-44bc-b468-9b5ca70f91d1.svg" alt="Vikas Kumar"/>
+            
+</a> 
+</div>
 <br>
 
 
