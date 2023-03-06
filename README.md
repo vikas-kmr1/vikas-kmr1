@@ -53,9 +53,9 @@
  <img align="right" height="290" margin ="10" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  /> <br>     
                                                                                                  
                                                                                                  
- 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Amity University,Greater Noida.\
-💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, Android Studio and Python. Currently exploring Django and Reactjs.\
-🌱 &nbsp;I'm on track for learning more about Dynamic-Programming, Systems Design, and Algorithms. 
+ 🎓 &nbsp;I'm currently studying Computer Science at Amity University,Greater Noida.\
+💡 &nbsp;Some technologies I enjoy working with include Java, JavaScript, Android and Python.Currently exploring Kotlin and Jetpack Compose.\
+🌱 &nbsp;I'm on track for learning more about DSA, Systems Design, and mobile development. 
                                                                                                  
 - Struggling on LeetCode.
 - Practicing on CodeChef and HackerRank.
