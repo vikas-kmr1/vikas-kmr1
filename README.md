@@ -90,7 +90,7 @@
 ## Github Stats 📊 
 <div align="center">
             
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vickyrules's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/vickyrules/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vickyrules&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vickyrules's github stats" /></a> | <a href="https://github.com/vickyrules/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrules&langs_count=7&layout=pie&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
             
 </div>
