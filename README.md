@@ -68,6 +68,7 @@
 
 ||Designation|Organisation|<div width="550px"> Duration </div>|Techstack|
 |---|---|---|-----|---|
+|°|SDE-(Android)|<a href="">Yuma/Yuma</a>|[Feb/2024 - present]|```Kotlin``` ```MVVM``` ```Java``` ```XML``` ```Jetpack Compose``` ```MVP```  ```Android```|
 |°|SDE-(Android) intern|<a href="https://geeksforgeeks.org/">GeeksForGeeks</a>|[June/2023 - July/2023]|```Kotlin``` ```MVVM``` ```Android```|
 |°|Maintainer + Contributor|<a href="https://hacktoberfest.com/">Hacktoberfest2022</a>|[01/Oct/2022 - 31/Oct/2022]|```Python``` ```Java``` ```Android```|
 |°|Participant|<a href= "https://soc.hackclubrait.co/"> HackClub RAIT </a>|[15/Jul/2022 - 31/Aug/2022]|```Python``` ```Java``` ```Android``` <br> ```JavaScript``` ```Machine Learning``` |
